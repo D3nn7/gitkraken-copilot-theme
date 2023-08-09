@@ -22,7 +22,7 @@
       "toolbar__bg1": "#24292f",
       "toolbar__bg2": "#24292f",
       "panel__bg0": "#1a2023",
-      "panel__bg1": "fade(@panel__bg0, 8%)",
+      "panel__bg1": "@toolbar__bg0",
       "panel__bg2": "fade(@panel__bg0, 8%)",
       "input__bg": "#232a2f",
       "input-bg-warn-color": "#f17834",
