@@ -9,7 +9,3 @@ A theme based on [Github Copilot](https://copilot.github.com/) website for [Gitk
 1. Go to `Settings` > `UI Customaziation`
 2. Save the `copilot.jsonc` file into` the theme folder
 ![Settings](./images/theme-setting.png)
-
-
-### Known problems
-- Some elements are shown transparent ![clone menu](./images/theme-problem-transparency.png)
